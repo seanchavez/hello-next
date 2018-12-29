@@ -124,17 +124,16 @@ var Index = function Index() {
       lineNumber: 5
     },
     __self: this
-  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("a", {
-    href: "",
+  }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("button", {
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
     },
     __self: this
-  }, "About Page")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
+  }, "Go to About Page")), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("p", {
     __source: {
       fileName: _jsxFileName,
-      lineNumber: 8
+      lineNumber: 9
     },
     __self: this
   }, "Hello Next.js"));
