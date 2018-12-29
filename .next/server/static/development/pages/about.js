@@ -190,7 +190,7 @@ var Layout = function Layout(props) {
       lineNumber: 11
     },
     __self: this
-  }));
+  }), props.children);
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Layout);
