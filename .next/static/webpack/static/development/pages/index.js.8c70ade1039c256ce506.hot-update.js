@@ -27,6 +27,7 @@ var Postlink = function Postlink(props) {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+    as: "/p/".concat(props.id),
     href: "/post?title=".concat(props.title),
     __source: {
       fileName: _jsxFileName,
@@ -62,6 +63,7 @@ var Postlink = function Postlink(props) {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(Postlink, {
+    id: "hello-nextjs",
     title: "Hello Next.js",
     __source: {
       fileName: _jsxFileName,
@@ -114,4 +116,4 @@ var Postlink = function Postlink(props) {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.f603955469250348a5ac.hot-update.js.map
+//# sourceMappingURL=index.js.8c70ade1039c256ce506.hot-update.js.map

@@ -19,7 +19,7 @@ var _jsxFileName = "/Users/seanchavez/Projects/Playground/hello-next/pages/index
 
 
 
-var PostLink = function PostLink(props) {
+var Postlink = function Postlink(props) {
   return react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement("li", {
     __source: {
       fileName: _jsxFileName,
@@ -27,6 +27,7 @@ var PostLink = function PostLink(props) {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(next_link__WEBPACK_IMPORTED_MODULE_2___default.a, {
+    as: "/p/".concat(props.id),
     href: "/post?title=".concat(props.title),
     __source: {
       fileName: _jsxFileName,
@@ -62,10 +63,27 @@ var PostLink = function PostLink(props) {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(Postlink, {
+    id: "hello-nextjs",
     title: "Hello Next.js",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 16
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(Postlink, {
+    id: "learn-nextjs",
+    title: "Learn Next.js",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 17
+    },
+    __self: this
+  }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(Postlink, {
+    id: "deploy-nextjs",
+    title: "Deploy apps with Zeit",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
     },
     __self: this
   })));
@@ -100,4 +118,4 @@ var PostLink = function PostLink(props) {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.f5112fdc748f026c63c3.hot-update.js.map
+//# sourceMappingURL=index.js.a8650845d2b3816c5c70.hot-update.js.map

@@ -10012,7 +10012,7 @@ var Page = function Page(props) {
 
 /***/ }),
 
-/***/ 5:
+/***/ 4:
 /*!*****************************!*\
   !*** multi ./pages/post.js ***!
   \*****************************/
@@ -10037,5 +10037,5 @@ module.exports = dll_831a3634f66cb1dada0c;
 
 /***/ })
 
-},[[5,"static/runtime/webpack.js"]]]));;
+},[[4,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=post.js.map
