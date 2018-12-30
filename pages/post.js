@@ -4,7 +4,8 @@ import fetch from 'isomorphic-unfetch';
 
 const Post = props => (
   <Layout>
-    <h1>{props.show.name}</h1>
+    <h1>Gatsby FTW</h1>
+    {/* <h1>{props.show.name}</h1> */}
     <p>{props.show.summary.replace(/<[/]?p>/g, '')}</p>
     <img src={props.show.image.medium} />
   </Layout>
